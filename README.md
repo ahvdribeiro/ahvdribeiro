@@ -3,9 +3,9 @@
 
 - 🌱 Atualmente estou aprendendo **HTML, CSS & JavaScript**
 
-- 👨‍💻 Meus hobbies são [Leitura e viagens](Leitura e viagens)
+- 👨‍💻 Meus hobbies são Leitura e viagens
 
-- 📝 Sou formado em [Comércio Exterior](Comércio Exterior)
+- 📝 Sou formado em Comércio Exterior
 
 - 💬 Ask me about **HTML, CSS & Python**
 
