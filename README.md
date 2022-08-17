@@ -7,13 +7,11 @@
 
 - 📝 Sou formado em Comércio Exterior
 
-- 💬 Ask me about **HTML, CSS & Python**
+- 💬 Você pode me perguntar sobre **HTML, CSS & Python**
 
 - 📫 Você pode me contatar: **henrique.ale98@gmail.com**
 
-- 📄 Experiências profissionais [Meu primeiro e atual emprego é na Ailos e sempre tive contato com o mundo da tecnologia através dos dados, mas atualmente estou explorando mais esse mundo através da programação](Meu primeiro e atual emprego é na Ailos e sempre tive contato com o mundo da tecnologia através dos dados, mas atualmente estou explorando mais esse mundo através da programação)
-
-- ⚡ Atualmente estou estudando **HTML, CSS & JavaScript**
+- 📄 Experiências profissionais Meu primeiro e atual emprego é na Ailos e sempre tive contato com o mundo da tecnologia através dos dados, mas atualmente estou explorando mais esse mundo através da programação
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
